@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [iZotope_RX_12_MORiA](./iZotope_RX_12_MORiA)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
